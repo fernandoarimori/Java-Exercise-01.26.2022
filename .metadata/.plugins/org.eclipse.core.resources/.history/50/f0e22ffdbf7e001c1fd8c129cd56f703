@@ -1,0 +1,27 @@
+package exercise1;
+
+import java.util.Scanner;
+
+public class ex1 {
+
+	private static final String Scanner  input = null;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int ano, mes, dia;
+		Scanner input = new Scanner(System.in);
+		
+		System.out.print("Quantos anos, meses e dias você tem de vida, respectivamente?");
+		ano = input.nextInt();
+		mes = input.nextInt();
+		dia = input.nextInt();
+		
+		
+		
+		
+		
+
+	}
+
+}

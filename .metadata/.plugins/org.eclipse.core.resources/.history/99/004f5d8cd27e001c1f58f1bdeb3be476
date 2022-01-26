@@ -1,0 +1,14 @@
+package Ex8;
+
+import java.util.Scanner;
+
+public class Ex8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner inp = new Scanner(System.in);
+		
+
+	}
+
+}
